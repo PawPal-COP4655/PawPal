@@ -4,7 +4,7 @@
 
 - Ana
 - Andy
-- Jose
+- Josed
 - Daniel
 - Krystal
 - Pedro
